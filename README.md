@@ -132,8 +132,8 @@ table, th, td {
 ~~~
 # OUPUT
 ![SEC](t1.png)
-![SEC](t2.png)
-![SEC](t3.png)
+![SEC](t-2.png)
+![SEC](t-3.png)
 
 # RESULT
 responsive website to display students data was successfully executed.
