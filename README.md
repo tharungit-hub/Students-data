@@ -73,7 +73,6 @@ table, th, td {
 <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
   <h1>Saveetha Engineering College</h1>
 </div>
-
 <div style="overflow:auto">
   <div class="menu">
     <a href="#">Home</a>
@@ -81,7 +80,6 @@ table, th, td {
     <a href="#">Acadamecis</a>
     <a href="#">Admissions</a>
   </div>
-
   <div class="main">
     <h2>Student Data</h2>
     <table style="width:100%">
@@ -118,7 +116,6 @@ table, th, td {
       <tr>
     </table>
   </div>
-
   <div class="right">
     <h2>About</h2>
     <p>Saveetha Engineering College (SEC) was established in 2001, by the Founder Chairman Dr. N. M. Veeraiyan, a committed and dedicated Medical Professional.
@@ -126,7 +123,6 @@ table, th, td {
       National Board of Accredition NBA has Accredited 5 UG courses.</p>
   </div>
 </div>
-
 <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">Thanks for visiting</div>
 
 </body>
