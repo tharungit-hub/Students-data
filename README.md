@@ -71,7 +71,7 @@ table, th, td {
 <body style="font-family:Verdana;color:#aaaaaa;">
 
 <div style="background-color:#e5e5e5;padding:15px;text-align:center;">
-  <h1>VIT Institute and technology</h1>
+  <h1>Saveetha Engineering College</h1>
 </div>
 
 <div style="overflow:auto">
@@ -121,7 +121,9 @@ table, th, td {
 
   <div class="right">
     <h2>About</h2>
-    <p>VIT was established with the aim of providing quality higher education on par with international standards. It persistently seeks and adopts innovative methods to improve the quality of higher education on a consistent basis</p>
+    <p>Saveetha Engineering College (SEC) was established in 2001, by the Founder Chairman Dr. N. M. Veeraiyan, a committed and dedicated Medical Professional.
+      SEC has a total strength of 4349 students in 12 UG courses, 8 PG Courses including MBA, MS by Research and Doctoral programs (PhD)  in five Departments.
+      National Board of Accredition NBA has Accredited 5 UG courses.</p>
   </div>
 </div>
 
@@ -131,9 +133,9 @@ table, th, td {
 </html>
 ~~~
 # OUPUT
-![SEC](t1.png)
-![SEC](t-2.png)
-![SEC](t-3.png)
+![SEC](exp4-1.png)
+![SEC](exp4-2.png)
+![SEC](exp4-3.png)
 
 # RESULT
 responsive website to display students data was successfully executed.
